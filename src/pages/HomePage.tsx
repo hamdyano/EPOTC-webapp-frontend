@@ -2,20 +2,6 @@ import ourmission from "../assets/ourmission.jpg";
 import appDownloadImage from "../assets/appDownload.png";
 import ourtask from "../assets/ourtask.jpg";
 import helcopter from "../assets/helcopter.png";
-import luxuryreal from "../assets/luxuryreal.jpg";
-import realstate2 from "../assets/realstate2.jpg";
-import {
-  Card,
-  CardHeader,
-  CardFooter,
-  CardTitle,
-  CardDescription,
-  CardContent,
-} from "@/components/ui/card";
-
-import accommodation2 from "../assets/accommodation2.jpg";
-import gym from "../assets/gym.jpg";
-import tg1 from "../assets/tg1.jpg";
 
 const HomePage = () => {
   return (
